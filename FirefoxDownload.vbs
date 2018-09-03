@@ -12,5 +12,3 @@ with bStrm
     .write xHttp.responseBody
     .savetofile "installfirefox.exe", 2 '//overwrite
 end with
-
-
