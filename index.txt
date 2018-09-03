@@ -1,0 +1,1 @@
+DownloadFirefox.vbs:http://codepad.org/VXD7ukQ1/raw.txt
